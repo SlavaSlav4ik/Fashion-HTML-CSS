@@ -40,3 +40,5 @@ npm install
 Dev-сервер
 npm run dev
 Откроется http://localhost:8080 (или порт из конфига) с включённым HMR и source-maps.
+
+gh-pages: https://slavaslav4ik.github.io/Fashion-HTML-CSS/
